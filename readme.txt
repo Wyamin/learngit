@@ -4,7 +4,4 @@ Git is free software.
 
 Git is a distributed version control system.
 Git is free software.
-
-Test Git add Commit
-Test Git add Commit
 Test Git add Commit
